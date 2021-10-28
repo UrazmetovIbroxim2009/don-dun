@@ -1,0 +1,171 @@
+
+/* forms */
+#ContactForm{
+    margin-top: -4px;
+    height: 500px;
+    line-height: 29px;
+    padding: 0 100px 0 50px;
+    /* border: 2px solid red; */
+}
+#ContactForm .button{
+    padding-right: 5px;
+    font-size: 19px;
+    color: #fff;
+    border: 0;
+    line-height: 29px;
+    width: 90px;
+    text-align: right;
+    background: url(../images/button2_bg.gif) top repeat-x #000;
+    margin-right: 100px;
+    /* border: 2px solid red; */
+}
+/* #ContactForm .button{
+  width: 90px;
+} */
+
+/* #ContactForm .button2{
+  width: 100px;
+} */
+
+#ContactForm .button:hover{
+    background: #008cdd;
+    /* border: 2px solid red; */
+}
+
+/* #ContactForm .button2:hover{
+    background: #008cdd;
+    border: 2px solid red;
+} */
+
+#ContactForm .textarea_box{
+    min-height: 232px;
+    width: 100%;
+    /* overflow: hidden; */
+    /* border: 2px solid red; */
+}
+
+#ContactForm .textarea_box span {
+  margin-left: 100px;
+  font-size: 18px;
+}
+#ContactForm .wrapper {
+    min-height: 35px;
+    margin-left: 100px;
+
+    /* border: 2px solid red; */
+}
+
+#ContactForm .wrapper span {
+  font-size: 18px;
+}
+
+#ContactForm .wrapper h3 {
+  font-weight: bold;
+}
+
+#ContactForm span{
+    width: 82px;
+    float: left;
+    font-weight: bold;
+    padding-left: 55  0px;
+    /* margin-top: 100px; */
+    /* border: 2px solid red; */
+}
+#ContactForm a{
+    margin-left: 10px;
+    float: right;
+    border: 2px solid red;
+}
+#ContactForm .input{
+    float: right;
+    background: url(../images/input.gif) no-repeat;
+    width: 311px;
+    height: 25px;
+    margin-right: 150px;
+    /* margin-top: 100px; */
+    color: #182125;
+    font: 15px Arial, Helvetica, sans-serif;
+    /* border: 2px solid red; */
+}
+#ContactForm textarea{
+    overflow: auto;
+    float: right;
+    background: url(../images/textarea.gif) no-repeat;
+    width: 416px;
+    height: 202px;
+    /* padding: 6px; */
+    color: #182125;
+    font: 15px Arial, Helvetica, sans-serif;
+    margin: 0 100px 0 0;
+    /* margin-top: 100px; */
+    /* border: 2px solid red; */
+}
+#ContactForm h3{
+  font-size: 20px;
+  display: flex;
+  width: 180px;
+  flex-wrap: nowrap;
+  /* border: 2px solid red; */
+}
+
+.col1{
+  width: 400px;
+  /* border: 2px solid red; */
+}
+
+.col1 h3{
+  width: 140px;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-size: 20px;
+  /* border: 2px solid red; */
+}
+.col1 p{
+  width: 200px;
+  margin-left: 100px;
+  /* border: 2px solid red; */
+}
+.col2 h3{
+  display: flex;
+  align-items: center;
+  margin-left: 150px;
+  margin-top: 100px;
+  /* border: 2px solid red; */
+  width: 0px;
+  flex-wrap: nowrap;
+}
+.col1 strong{
+  width: 280px;
+  margin-left: 100px;
+  display: flex;
+  font-family: 'Georgia';
+  padding-top: 20px;
+  /* border: 2px solid red; */
+}
+.cols-pad_bot1{
+  font-size: 20px;
+  /* border: 2px solid red; */
+}
+.col1 a{
+  margin-top: 128px;
+  width: 200px;
+  margin-left: -210px;
+  font-family: 'Comic Sans MS';
+  /* border: 2px solid red; */
+}
+.cols-pad_bot1 p{
+  font-size: 15px;
+  width: 300px;
+  /* padding-bottom: 100px; */
+  /* border: 2px solid red; */
+}
+.cols-pad_bot1 h3{
+  /* border: 2px solid red; */
+  width: 100px;
+  margin-top: 20px;
+}
+#content{
+  display: flex;
+  font-size: 13px;
+  /* border: 2px solid red; */
+}
